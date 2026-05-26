@@ -60,5 +60,22 @@ Amazon-Sales-Analysis/
 ├── screenshots/
 ├── README.md
 
+## Screenshots
+
+### KPI Analysis
+![KPI Analysis](KPI_analysis.jpg)
+
+### SQL Analysis
+![SQL Analysis](SQL.jpg)
+
+### Category Revenue Trend
+![Category Revenue](category_revenue_trend_analysis.jpg)
+
+### Monthly Revenue Trend
+![Monthly Revenue](monthly_revenue_trend_analysis.jpg)
+
+### Profit Analysis
+![Profit Analysis](profit_analysis.jpg)
+
 ## Author
 Sanjiv Baviskar
